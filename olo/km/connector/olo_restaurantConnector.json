@@ -6,7 +6,6 @@
   "source": {
     "sourceConfig": {
       "apiPushConfig": {
-        "app": "62620",
         "dataFormat": "JSON",
         "enabled": true
       }
